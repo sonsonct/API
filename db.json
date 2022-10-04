@@ -1,0 +1,22 @@
+{
+    "posts": [
+      { "id": 1, "title": "abc", "author": "test" }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": [
+        {
+            "id": 1,
+            "name": "sonson", 
+            "pass": "123"
+        },
+        {
+            "id": 2,
+            "name": "huyga", 
+            "pass": "123"
+        }
+    ] 
+        
+    
+  }
